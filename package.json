@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Qile Wang <wangqile123@gmail.com>",
-  "description": "A slack bot for the syde2020 slack group",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
